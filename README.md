@@ -4,3 +4,5 @@
 
 # To download the dataset which I used go here:
 https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter
+
+The project is still in works, focusing on which asteroids prediction is the best, based on datasets.
